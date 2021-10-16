@@ -1,0 +1,8 @@
+prefix=/home/li/vortex_ws/install
+
+Name: vortexbot
+Description: Description of vortexbot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

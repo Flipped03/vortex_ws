@@ -1,0 +1,2 @@
+vortexbot
+-DCATKIN_DEVEL_PREFIX=/home/li/vortex_ws/devel -DCMAKE_INSTALL_PREFIX=/home/li/vortex_ws/install -G Unix Makefiles
